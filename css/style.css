@@ -29,7 +29,7 @@
 }
 
 #izzet {
-  background-image: url("/background/izzet.jpg");
+  background-image: url("/background/izzet2.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -74,7 +74,6 @@
 .card-text {
   margin-top: 10px;
   margin-bottom: 10px;
-  background-color: #FFFFFF;
   color: #000000;
   font-family: Arial, Helvetica, sans-serif;
 }
